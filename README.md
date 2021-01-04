@@ -9,7 +9,7 @@
 - ✍️ &nbsp; Doing Web Development as a hobby.
 
 
-<h3>🛠 What I know and Use</h3>
+<h3>🛠 What I *kinda* know and Use</h3>
 
 
 
