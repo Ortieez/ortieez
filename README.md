@@ -28,3 +28,4 @@
 <hr>
 
 ![Metrics](https://metrics.lecoq.io/ortieez?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FPrague)
+![Metrics](https://metrics.lecoq.io/ortieez?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&config.timezone=Europe%2FPrague)
