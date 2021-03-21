@@ -13,7 +13,7 @@
 
 
 
-- 💻 &nbsp; C | HTML | CSS 
+- 💻 &nbsp; C | HTML | CSS/SASS
 
 - 🔧 &nbsp; Git | VSCode Insiders | Visual Studio
 
