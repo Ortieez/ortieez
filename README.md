@@ -1,1 +1,2 @@
-![Metrics](https://metrics.lecoq.io/ortieez?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FPrague)
+![Metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=ortieez&hide=html&show_icons=true&theme=gruvbox)
+![Other Metrics](https://github-readme-stats.vercel.app/api?username=ortieez&show_icons=true&theme=gruvbox)
