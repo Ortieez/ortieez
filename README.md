@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Welcome to my profile. I'm student/part time dev.<br>Working on projects for work as well for school.
+Hi! Welcome to my profile. I'm full time dev/part time student.
 
 
 ## 🌐 Socials:
